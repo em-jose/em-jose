@@ -4,7 +4,9 @@
 
 ## About me
 
-Web developer with more than five years of professional experience. I am passionate about the design and creation of scalable systems and the optimization process. I am always looking for new challenges and ways to learn that will make me advance as a professional.
+Full-stack web developer with more than five years of experience. Since my career began, I worked developing e-commerce solutions with multiple clients using different technologies, including Laravel, Shopify and Prestashop. I especially enjoy front-end development, as I love all the visual and UX part that it involves.
+
+I am currently learning Typescript and Next.js to take my Javascript knowledge to the next level.
 
 ## Technologies
 
