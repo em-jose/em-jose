@@ -6,8 +6,6 @@
 
 Full-stack web developer with more than five years of experience. Since my career began, I worked developing e-commerce solutions with multiple clients using different technologies, including Laravel, Shopify and Prestashop. I especially enjoy front-end development, as I love all the visual and UX part that it involves.
 
-I am currently learning Typescript and Next.js to take my Javascript knowledge to the next level.
-
 ## Technologies
 
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
