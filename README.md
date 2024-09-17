@@ -4,7 +4,7 @@
 
 ## About me
 
-Full-stack web developer with more than five years of experience. Since my career began, I worked developing e-commerce solutions with multiple clients using different technologies, including Laravel, Shopify and Prestashop. I especially enjoy front-end development, as I love all the visual and UX part that it involves.
+Full-stack web developer with more than six years of experience. Since my career began, I worked developing e-commerce solutions with multiple clients using different technologies, including Laravel, Shopify and Prestashop. I especially enjoy front-end development, as I love all the visual and UX part that it involves.
 
 ## Technologies
 
